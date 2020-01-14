@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "RenderZenith for OP7/T/Pro",
+    "version": "R1-T159",
+    "link": "https://github.com/EAS-Project/Releases/blob/op7-testbuilds/RZ-OP7-OOS-Q-200113-dcb00e68-R1-T159-Upstream.zip?raw=true",
+    "changelog_url": "https://raw.githubusercontent.com/EAS-Project/fkm_updater/op7-testbuilds/changelog.txt",
+    "date": "2020-01-13",
+    "sha1": "cc6cbdc5e7a60b699afe83b523b312ea9b0c2c43"
+  },
+  "support": {
+    "link": "https://t.me/renderzenith"
+  }
+}
